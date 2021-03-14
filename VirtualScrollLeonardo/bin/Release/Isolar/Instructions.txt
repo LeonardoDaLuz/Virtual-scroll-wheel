@@ -1,0 +1,22 @@
+###########  Virtual Scroll Tool 0.1   #####################
+	     Super Fas Virtual Scroll
+
+Dedicated For those who have a mouse with a damaged wheel.
+
+By Leonardo da Luz Pinto (https://www.facebook.com/leotoonerd)
+
+This application is invisible, when you open i:t she run in background and don't have interface, use hotkeys to control:
+
+_______Hotkeys____________________________
+alt+esc: Close the program		  |
+alt+move mouse = Scroll			  |
+Hold Left click + move mouse: Scroll		  |
+Hold Right click + move mouse: scroll   	  |
+Hold Middle click + move mouse: scroll	  |
+alt+Subtract: Reduce scrolling intensity  |
+alt+Add: Reduce scrolling intensity  	  |
+__________________________________________|
+
+To enable and disable some hotkeys open the configuration.ini file (root folder) to configure, replace with false in the lines of hotkeys you want to disable.
+
+To start with windows, put a shortcut in initialize folder (C:\Users\userName\AppData\Roaming\Microsoft\Windows\Start Menu\Program in windows 7 case).
